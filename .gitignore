@@ -27,3 +27,7 @@ hs_err_pid*
 .idea/shelf
 .idea/usage.statistics.xml
 
+# eclipse
+.classpath
+.project
+bin/
